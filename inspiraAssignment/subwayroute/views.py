@@ -63,7 +63,7 @@ class ParentFunctions():
             "id": self.get_id(object),
             "long_name":self.get_longname(object),
             "stops": len(no_of_st),
-            "stop_list": no_of_st
+            # "stop_list": no_of_st
         }
 
     def data_respresent(self, function, data,):
@@ -129,7 +129,7 @@ class MostAndFewest(APIView, ParentFunctions):
         if request.query_params.get('route_stops') == 'most':
             data = max(data, key=lambda x:x['stops'])
         elif request.query_params.get('route_stops') == 'fewest':
-            data = max(data, key=lambda x:x['stops'])
+            data = min(data, key=lambda x:x['stops'])
         else:
             # raise exceptions.ValidationError("route_stops not given please pass in the api most/fewest")
             for route in data:
