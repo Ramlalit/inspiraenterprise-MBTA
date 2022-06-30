@@ -33,3 +33,10 @@ output --> ![Screenshot from 2022-06-13 23-57-35](https://user-images.githubuser
 ![Screenshot from 2022-06-13 23-57-59](https://user-images.githubusercontent.com/30229429/173493890-3a3dd3b2-769d-40cc-b94c-729f713cdc6f.png)
 
 ![Screenshot from 2022-06-13 23-58-03](https://user-images.githubusercontent.com/30229429/173493895-d9677e44-b53d-4156-9e11-cac8d5c7e174.png)
+
+Q3) Source and Destination API 
+1) Ashmont to Arlington
+output --> ![Screenshot from 2022-06-30 12-25-261](https://user-images.githubusercontent.com/30229429/176613370-dd3ebb1a-a82f-4dc4-adbe-5542abd04894.png)
+2) Davis to Kendall/MIT
+output --> ![Screenshot from 2022-06-30 12-24-12 (1)](https://user-images.githubusercontent.com/30229429/176613363-52ca655f-51ba-4c1a-b90d-c4f782c74683.png)
+
